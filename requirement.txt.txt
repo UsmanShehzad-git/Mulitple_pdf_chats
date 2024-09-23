@@ -1,0 +1,12 @@
+These are the dependencies which you install in this project to run without any error
+os
+langchain
+langchain community
+pdfplumber
+streamlit
+langchain_google_genai
+python_dotenv
+io
+
+Also Create the virtual envireonment from this query
+python -m venv env
